@@ -7,20 +7,20 @@
 
 ```
 # you can use your database
-DATABASE_URL="postgres://postgres.hdfpkfazkuyxdfaccdav:XM%3F7~Yv%26GQ(t%26b%3F@aws-0-us-west-1.pooler.supabase.com:5432/postgres"
+DATABASE_URL=
 PORT=5000
-JWT_ACCESS_SECRET=afhukdayfuiyhvgdcfiasbfdu
-JWT_ACCESS_SECRET_EXPIRATION=15d
-JWT_REFRESH_SECRET=afhukdayfuiyhvgdcfiasbfdusd
-JWT_REFRESH_EXPIRATION=15d
-PASS_SAIL=12
+JWT_ACCESS_SECRET=
+JWT_ACCESS_SECRET_EXPIRATION=
+JWT_REFRESH_SECRET=
+JWT_REFRESH_EXPIRATION=
+PASS_SAIL=
 
-APP_EMAIL=gour.joy24@gmail.com
-APP_PASSWORD=jhypfgmhyzwrlkid
+APP_EMAIL=
+APP_PASSWORD=
 
 # admin credential
-ADMIN_EMAIL=gour.joy24@gmail.com
-ADMIN_PASSWORD=SuperAdmin0
+ADMIN_EMAIL=
+ADMIN_PASSWORD=
 
 ```
 
